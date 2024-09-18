@@ -31,7 +31,7 @@ nav ul {
 
 nav ul li {
 
-	background-color: whitesmoke;
+	background-color: #004080;
 	flex-flow: row wrap;
 	align-items: center;
 	list-style-type: none;
