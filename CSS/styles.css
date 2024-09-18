@@ -1,34 +1,18 @@
 
 body {
 
-/*	background-color: rgba(229, 172, 103, 0.5);
-	background-color: teal;*/
-	overflow: scroll; /* Show scrollbars */
-
-/*	terminal example https://css-tricks.com/old-timey-terminal-styling/ */
-/*	background-color: black;
-  	background-image: radial-gradient(
-    rgba(0, 150, 0, 0.75), black 120%);
-	height: 100vh;*/
-/*	terminal example*/
-/*	color: white;
-  	font: 1.3rem Inconsolata, monospace;
-  	text-shadow: 0 0 5px #C8C8C8;*/
-
-}
-
 a {
-	color: orange;
+	color: white;
 }
 
 a:My Work {
-	color: orangered;
+	color: white;
 	text-decoration: none;
 }
 
 nav {
 
-	background-color: ;
+	background-color: white;
 	max-width: 800px;
 	margin: auto;
 	font-size: 1rem;
@@ -40,7 +24,7 @@ nav ul {
 	display: flex;
 	align-items: stretch;
 	flex-direction: row;
-	justify-content: right;
+	justify-content: center;
 
 	
 }
@@ -49,7 +33,7 @@ nav ul li {
 
 	background-color: whitesmoke;
 	flex-flow: row wrap;
-	align-items: stretch;
+	align-items: center;
 	list-style-type: none;
 	padding: 0.3rem;
 	margin: 0.1rem;
@@ -79,13 +63,6 @@ nav ul li a:hover {
 	text-decoration: ;
 	color: blue;
 }
-
-
-/*a:visited {
-  color: cyan;
-  text-decoration-color: hotpink;
-  
-}*/
 
 a:hover {
 
@@ -220,7 +197,7 @@ h1 {
 
 	body {
 
-	background-color: skyblue;
+	background-color: #d4ebf2;
 }
 
 	}
