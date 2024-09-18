@@ -43,6 +43,130 @@ nav ul li {
 	border: 5px solid	rgba(127,255,0,0.5);
 }
 
+nav ul li a:Video Sampples {
+	color: forestgreen;
+}
+nav ul li a: Writing Samples {
+	font-family: 'Solway', serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+
+	text-decoration: none;
+	color: forestgreen;
+}
+
+
+nav ul li a:Photography Portfolio {
+	color: forestgreen;
+}
+
+nav ul li a:Graphic Design Samples {
+	text-decoration: ;
+	color: blue;
+}
+
+a:hover {
+
+}
+
+
+main {
+	max-width: 800px;
+	margin: auto;
+	font-size: 1.4rem;
+}
+
+
+p {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 1rem;
+}
+
+.squirrel {
+	background-image: ;
+	font-size: 1.4rem;
+	
+}
+
+.example-square {
+	background-color: lightgray;
+	border: 5px solid rgba(95, 63, 158, 0.5);
+	padding: 5px;
+	margin: 5px;
+	border-radius: 30%;
+}
+
+img {
+		align-items: center;
+		width: 100%;
+	}
+
+
+.flex-example {
+	display: flex;
+
+}
+
+.flex-example-space {
+	margin:1rem;
+}
+
+
+.flex-example2 {
+	
+}
+
+.blue {
+	
+	
+	width: 300px;
+	background-color: blueviolet;
+	padding: 1rem;
+}
+
+
+.red {
+	width: 300px;
+	background-color: crimson;
+	padding: 1rem;
+}
+
+.green {
+	width: 300px;
+	background-color: greenyellow;
+	padding: 1rem;
+}
+
+.teal {
+	width: 300px;
+	background-color: teal;
+	padding: 1rem;
+}
+
+
+footer {
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
+	color: seagreen;
+	max-width: 800px;
+	margin: auto;
+	
+
+}
+
+h1 {
+	font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+	margin: 1rem;
+	margin-left: -5rem;
+	color: #434343;
+/*	text-decoration: line-through;*/
+/*	text-transform: uppercase;*/
+}
+
 
 @media screen and (min-width:501px){
 	body {
