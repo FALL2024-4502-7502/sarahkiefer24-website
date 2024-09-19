@@ -19,7 +19,7 @@ a: MU Journalism Site {
 nav {
 
 	background-color: #f9e9de;
-	max-width: 400rem;
+	max-width: auto;
 	margin: auto;
 	font-size: 1rem;
 	border-radius: 0.1rem;
