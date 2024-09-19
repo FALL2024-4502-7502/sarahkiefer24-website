@@ -69,14 +69,6 @@ h2 {
 /*	text-transform: uppercase;*/
 }
 
-nav ul {
-	display: flex;
-	align-items: center;
-	flex-direction: row;
-	justify-content: center;
-
-	
-}
 
 nav ul li a: Video Samples{
 
@@ -113,5 +105,14 @@ nav ul li a: Photography Portfolio {
 nav ul li a: Graphic Design Samples {
 	text-decoration: ;
 	color: #cc6c5c;
+}
+
+nav ul {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+
+	
 }
 
