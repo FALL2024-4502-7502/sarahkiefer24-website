@@ -66,9 +66,9 @@ nav ul li a:hover {
 }
 
 main {
-	/*max-width: 800px;
+	max-width: auto;
 	margin: auto;
-	font-size: 1.4rem;*/
+	font-size: 1.4rem;
 	background-color: #9fb6c3;
 }
 
@@ -78,6 +78,6 @@ footer {
 	font-weight: 100;*/
 	color: seagreen;
 	background-color: #f9b49b;
-	max-width: 800px;
+	max-width: auto;
 	margin: auto;
 }
