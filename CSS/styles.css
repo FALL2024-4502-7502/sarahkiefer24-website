@@ -86,3 +86,15 @@ footer {
 	max-width: auto;
 	margin: auto;
 }
+
+h1 {
+	/*font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;*/
+  font-weight: 600;
+  font-style: normal;
+	margin: 1rem;
+	margin-left: 1rem;
+	color: grey;
+/*	text-decoration: line-through;*/
+/*	text-transform: uppercase;*/
+}
