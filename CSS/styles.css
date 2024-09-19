@@ -72,6 +72,12 @@ main {
 	background-color: #9fb6c3;
 }
 
+
 footer {
+	/*font-family: 'Playfair Display', serif;
+	font-weight: 100;*/
+	color: seagreen;
 	background-color: #f9b49b;
+	max-width: 800px;
+	margin: auto;
 }
