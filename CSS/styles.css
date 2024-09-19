@@ -64,3 +64,10 @@ nav ul li a:hover {
 	text-decoration: ;
 	color: blue;
 }
+
+main {
+	max-width: 800px;
+	margin: auto;
+	font-size: 1.4rem;
+	background-color: #9fb6c3;
+}
