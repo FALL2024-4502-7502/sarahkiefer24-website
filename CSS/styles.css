@@ -3,16 +3,16 @@ body {
 	}
 
 a {
-	color: black;
+	color: grey;
 }
 
 a: Home {
-	color: black;
+	color: grey;
 	text-decoration: none;
 }
 
 a: MU Journalism Site {
-	color: black;
+	color: grey;
 	text-decoration: none;
 }
 
