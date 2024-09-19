@@ -46,7 +46,8 @@ footer {
 h1 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
-  font-weight: 600;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
   font-style: normal;
 	margin: 1rem;
 	margin-left: 1rem;
@@ -58,7 +59,8 @@ h1 {
 h2 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
-  font-weight: 600;
+	font-family: "Libre Baskerville", serif;
+  font-weight: 400;
   font-style: normal;
 	margin: 1rem;
 	margin-left: 1rem;
@@ -113,14 +115,3 @@ nav ul li a: Graphic Design Samples {
 	color: #cc6c5c;
 }
 
-.libre-baskerville-regular {
-  font-family: "Libre Baskerville", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.libre-baskerville-bold {
-  font-family: "Libre Baskerville", serif;
-  font-weight: 700;
-  font-style: normal;
-}
