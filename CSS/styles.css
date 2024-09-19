@@ -6,8 +6,13 @@ a {
 	color: whitesmoke;
 }
 
-a:visited {
-	color: red;
+a: Home {
+	color: orange;
+	text-decoration: none;
+}
+
+a: MU Journalism Site {
+	color: orange;
 	text-decoration: none;
 }
 
