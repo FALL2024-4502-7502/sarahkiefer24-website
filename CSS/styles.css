@@ -112,3 +112,15 @@ nav ul li a: Graphic Design Samples {
 	text-decoration: ;
 	color: #cc6c5c;
 }
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
