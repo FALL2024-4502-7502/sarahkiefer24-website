@@ -54,11 +54,6 @@ h1 {
 	color: #cc6c5c;
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
-.inter-<uniquifier> {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
 }
 
 h2 {
@@ -100,7 +95,7 @@ nav ul li a: Video Samples{
 }
 
 nav ul li a: Writing Samples{
-	font-family: 'Solway', serif;
+	font-family: 'Open-Sans', sans-serif;
 /*	font-family: "Pixelify Sans", sans-serif;*/
 	font-optical-sizing: auto;
 	font-weight: 700;
