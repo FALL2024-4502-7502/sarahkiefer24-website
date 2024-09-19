@@ -37,7 +37,7 @@ nav ul {
 
 nav ul li a: Video Samples{
 
-	background-color: #f9e9de;
+	/*background-color: #f9e9de;
 	flex-flow: row wrap;
 	align-items: stretch;
 	list-style-type: none;
@@ -46,7 +46,9 @@ nav ul li a: Video Samples{
 	max-width: 100%;
 	border-radius: 0.5rem;
 	border: 1px solid	rgba(127,255,0,0.5);
-	border: 5px solid	rgba(127,255,0,0.5);
+	border: 5px solid	rgba(127,255,0,0.5);*/
+	text-decoration: none;
+	color: #cc6c5c;
 }
 
 nav ul li a: Writing Samples{
@@ -57,17 +59,17 @@ nav ul li a: Writing Samples{
 	font-style: normal;
 
 	text-decoration: none;
-	color: forestgreen;
+	color: #cc6c5c;
 }
 
 nav ul li a: Photography Portfolio {
 /*	text-decoration: none;*/
-	color: forestgreen;
+	color: #cc6c5c;
 }
 
 nav ul li a: Graphic Design Samples {
 	text-decoration: ;
-	color: blue;
+	color: #cc6c5c;
 }
 
 main {
