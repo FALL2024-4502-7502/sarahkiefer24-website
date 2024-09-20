@@ -1,5 +1,7 @@
 
 body {
+	background-color: #9fb6c3;
+	font-size: 16px;
 	}
 
 a {
@@ -18,8 +20,9 @@ a: MU Journalism Site {
 
 nav {
 
+	font-family: ;
 	background-color: #f9e9de;
-	max-width: 2000px;
+	max-width: 3000px;
 	margin: auto;
 	font-size: 1rem;
 	border-radius: 0.1rem;
@@ -36,8 +39,8 @@ main {
 
 
 footer {
-	/*font-family: 'Playfair Display', serif;
-	font-weight: 100;*/
+	font-family: 'Playfair Display', serif;
+	font-weight: 100;
 	color: seagreen;
 	background-color: #f9b49b;
 	max-width: auto;
