@@ -17,8 +17,9 @@ a: MU Journalism Site {
 }
 
 nav {
-
-	font-family: ;
+	font-family: "Merriweather", serif;
+  	font-weight: 300;
+  	font-style: normal;
 	background-color: #f9e9de;
 	max-width: 3000px;
 	margin: auto;
