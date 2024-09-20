@@ -45,6 +45,9 @@ footer {
 	margin: auto;
 }
 
+P { text-align: center }
+h1 { text-align: center }
+
 h1 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
@@ -58,6 +61,9 @@ h1 {
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
 }
+
+P { text-align: center }
+h2 { text-align: center }
 
 h2 {
 	/*font-family: "Roboto Slab", serif;
