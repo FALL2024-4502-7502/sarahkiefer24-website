@@ -23,7 +23,8 @@ nav {
 	margin: auto;
 	font-size: 1rem;
 	border-radius: 0.1rem;
-	text-transform: uppercase;
+	text-transform: uppercase;]
+	text-decoration: none;
 }
 
 main {
@@ -60,8 +61,8 @@ h2 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
 	font-family: "Libre Baskerville", serif;
-  font-weight: 400;
-  font-style: normal;
+  	font-weight: 400;
+  	font-style: normal;
 	margin: 2rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
@@ -106,12 +107,12 @@ nav ul li a: Writing Samples{
 }
 
 nav ul li a: Photography Portfolio {
-/*	text-decoration: none;*/
+	text-decoration: none;
 	color: #cc6c5c;
 }
 
 nav ul li a: Graphic Design Samples {
-	text-decoration: ;
+	text-decoration: none;
 	color: #cc6c5c;
 }
 
