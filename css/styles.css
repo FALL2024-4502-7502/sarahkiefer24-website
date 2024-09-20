@@ -1,7 +1,5 @@
 
 body {
-	background-color: #9fb6c3;
-	font-size: 16px;
 	}
 
 a {
@@ -53,6 +51,7 @@ h1 {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 16px;
 	margin: 1rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
