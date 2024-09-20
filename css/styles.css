@@ -35,6 +35,13 @@ main {
 	background-color: #9fb6c3;
 }
 
+.work-sans-<uniquifier> {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
 
 footer {
 	font-family: 'Playfair Display', serif;
