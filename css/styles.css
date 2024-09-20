@@ -33,15 +33,12 @@ main {
 	margin: auto;
 	font-size: 1.5rem;
 	background-color: #9fb6c3;
+	font-family: "Work Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 400px;
+  	font-style: normal;
 }
-
-.work-sans-<uniquifier> {
-  font-family: "Work Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400px;
-  font-style: normal;
-}
-
+  
 
 footer {
 	font-family: 'Playfair Display', serif;
