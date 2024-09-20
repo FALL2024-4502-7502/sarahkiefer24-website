@@ -19,7 +19,7 @@ a: MU Journalism Site {
 nav {
 
 	background-color: #f9e9de;
-	max-width: 4000px;
+	max-width: 2000px;
 	margin: auto;
 	font-size: 1rem;
 	border-radius: 0.1rem;
@@ -47,7 +47,7 @@ h1 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
   font-family: "Libre Baskerville", serif;
-  font-weight: 800;
+  font-weight: 400;
   font-style: normal;
 	margin: 2rem;
 	margin-left: 2rem;
