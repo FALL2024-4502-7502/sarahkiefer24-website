@@ -98,11 +98,15 @@ nav ul li a: Video Samples{
 }
 
 nav ul li a: Writing Samples{
-	font-family: 'Open-Sans', sans-serif;
-/*	font-family: "Pixelify Sans", sans-serif;*/
-	font-optical-sizing: auto;
+	/*font-family: 'Open-Sans', sans-serif;
+/*	font-family: "Pixelify Sans", sans-serif;*/*/
+	font-family: "Roboto Mono", monospace;
+  	font-optical-sizing: auto;
+  	font-weight: 700rem;
+  	font-style: normal;
+	/*font-optical-sizing: auto;
 	font-weight: 700;
-	font-style: normal;
+	font-style: normal;*/
 
 	text-decoration: none;
 	color: #cc6c5c;
