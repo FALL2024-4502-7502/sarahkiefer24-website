@@ -1,5 +1,5 @@
 
-/*body {
+body {
 	}
 
 a {
@@ -49,9 +49,9 @@ h1 {
 	/*font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;*/
   font-family: "Libre Baskerville", serif;
-  font-weight: 400;
+  font-weight: 800px;
   font-style: normal;
-  font-size: 16px;
+  font-size: 2rem;
 	margin: 1rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
@@ -118,69 +118,9 @@ nav ul li a: Photography Portfolio {
 nav ul li a: Graphic Design Samples {
 	text-decoration: none;
 	color: #cc6c5c;
-}*/
+}
 
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
-
-
-a {
-color : navy;
-}
-nav {
-background-color : #f9e9de;
-max-width : 3000px;
-margin : auto;
-font-size : 1rem;
-border-radius : 0.1rem;
-text-transform : uppercase;
-}
-main {
-margin : auto;
-font-size : 2rem;
-background-color : #9fb6c3;
-}
-footer {
-font-family : 'Playfair Display', serif;
-font-weight : 100;
-color : seagreen;
-background-color : #f9b49b;
-margin : auto;
-}
-h1 {
-font-family : "Libre Baskerville", serif;
-font-weight : 400;
-font-style : normal;
-font-size : 16px;
-margin : 1rem;
-margin-left : 2rem;
-color : #cc6c5c;
-}
-h2 {
-font-family : "Libre Baskerville", serif;
-font-weight : 400;
-font-style : normal;
-margin : 2rem;
-margin-left : 2rem;
-color : #cc6c5c;
-}
-nav ul {
-display : flex;
-align-items : center;
-flex-direction : row;
-justify-content : center;
-}
-a:link {
-text-decoration : none;
-}
-a:visited {
-text-decoration : none;
-}
-a:hover {
-text-decoration : none;
-}
-a:active {
-text-decoration : none;
-}
