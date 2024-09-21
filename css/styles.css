@@ -41,18 +41,11 @@ main {
   	justify-content: center;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
-IMG.displayed {
-    display: block;
-    margin-left: auto;
-    margin-right: auto }
-  
 
 footer {
 	font-family: 'Playfair Display', serif;
