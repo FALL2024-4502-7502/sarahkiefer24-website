@@ -1,5 +1,6 @@
 
 body {
+	justify-content: center;
 	}
 
 a {
@@ -39,12 +40,6 @@ main {
   	font-weight: 400px;
   	font-style: normal;
   	justify-content: center;
-}
-
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 footer {
