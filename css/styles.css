@@ -33,6 +33,7 @@ nav {
 	border-radius: 0.1rem;
 	text-transform: uppercase;]
 	text-decoration: none;
+	align-content: center;
 }
 
 main {
@@ -45,6 +46,8 @@ main {
   	font-weight: 400px;
   	font-style: normal;
   	justify-content: center;
+  	align-content: center;
+
 }
 
 footer {
@@ -54,6 +57,8 @@ footer {
 	background-color: #f9b49b;
 	max-width: auto;
 	margin: auto;
+	align-content: center;
+
 }
 
 h1 {
@@ -66,6 +71,8 @@ h1 {
 	margin: 1rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
+	align-content: center;
+
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
 }
@@ -79,6 +86,8 @@ h2 {
 	margin: 2rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
+		align-content: center;
+
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
 }
@@ -88,6 +97,8 @@ nav ul {
 	align-items: center;
 	flex-direction: row;
 	justify-content: center;
+	align-content: center;
+
 
 	
 }
@@ -106,6 +117,8 @@ nav ul li a: Video Samples{
 	border: 5px solid	rgba(127,255,0,0.5);*/
 	text-decoration: none;
 	color: #cc6c5c;
+	align-content: center;
+
 }
 
 nav ul li a: Writing Samples{
@@ -119,16 +132,22 @@ nav ul li a: Writing Samples{
 
 	text-decoration: none;
 	color: #cc6c5c;
+	align-content: center;
+
 }
 
 nav ul li a: Photography Portfolio {
 	text-decoration: none;
 	color: #cc6c5c;
+	align-content: center;
+
 }
 
 nav ul li a: Graphic Design Samples {
 	text-decoration: none;
 	color: #cc6c5c;
+	align-content: center;
+
 }
 
 a:link { text-decoration: none; }
