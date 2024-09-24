@@ -85,6 +85,15 @@ h1 {
 	color: #cc6c5c;
 	align-content: center;
 
+	.flexible {
+	display: flex
+	flex-direction: column;
+}
+.flex1 {
+	display: flex;
+	flex-flow: column wrap;
+}
+
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
 }
