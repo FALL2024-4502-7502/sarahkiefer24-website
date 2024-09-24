@@ -1,7 +1,15 @@
 
 body {
-	justify-content: center;
 	}
+
+.flexible {
+	display: flex
+	flex-direction: column;
+}
+.flex1 {
+	display: flex;
+	flex-flow: column wrap;
+}
 
 img{
   padding: 2rem;
@@ -49,6 +57,10 @@ main {
   	align-content: center;
 
 }
+.example-square
+
+
+
 
 footer {
 	font-family: 'Playfair Display', serif;
