@@ -56,9 +56,16 @@ main {
   	justify-content: center;
   	align-content: center;
 
+.flexible {
+	display: flex
+	flex-direction: column;
 }
-.example-square
+.flex1 {
+	display: flex;
+	flex-flow: column wrap;
+}
 
+}
 
 
 
@@ -84,15 +91,6 @@ h1 {
 	margin-left: 2rem;
 	color: #cc6c5c;
 	align-content: center;
-
-	.flexible {
-	display: flex
-	flex-direction: column;
-}
-.flex1 {
-	display: flex;
-	flex-flow: column wrap;
-}
 
 /*	text-decoration: line-through;*/
 /*	text-transform: uppercase;*/
