@@ -2,6 +2,15 @@
 body {
 	}
 
+.flexible {
+	display: flex
+	flex-direction: column;
+}
+.flex1 {
+	display: flex;
+	flex-flow: column wrap;
+}
+
 img{
   padding: 2rem;
   width: 600px;
@@ -33,6 +42,12 @@ nav {
 	text-transform: uppercase;]
 	text-decoration: none;
 	align-content: center;
+}
+
+.border-example {
+/*	border: 1px solid rgba(127,255,0,0.5);*/
+	border: 3px solid rgba(277,38,54,1);
+
 }
 
 main {
@@ -164,15 +179,6 @@ a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
-
-.flexible {
-	display: flex
-	flex-direction: column;
-}
-.flex1 {
-	display: flex;
-	flex-flow: column wrap;
-}
 
 
 
