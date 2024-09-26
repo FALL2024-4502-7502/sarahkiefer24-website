@@ -56,19 +56,6 @@ main {
   	justify-content: center;
   	align-content: center;
 
-.flexible {
-	display: flex
-	flex-direction: column;
-}
-.flex1 {
-	display: flex;
-	flex-flow: column wrap;
-}
-
-}
-
-
-
 footer {
 	font-family: 'Playfair Display', serif;
 	font-weight: 100;
@@ -174,5 +161,6 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
 
+}
 
 
