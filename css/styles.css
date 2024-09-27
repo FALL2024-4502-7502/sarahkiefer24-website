@@ -1,9 +1,10 @@
 
 body {
+	background-color: #9fb6c3;
 	}
 
 .flexible {
-	display: flex
+	display: flex;
 	flex-direction: column;
 }
 .flex1 {
@@ -44,17 +45,87 @@ nav {
 	align-content: center;
 }
 
-main {
-	max-width: auto;
+nav a {
+	padding: 1rem;
+	text-decoration: none;
+
+
+
+}
+
+.picture-centered-text {
+	display: flex;
+	flex-direction: column;
+
+/*	background-color: orangered;*/
+	border-radius: .5rem;
+}
+
+.picture-centered-text p {
 	margin: auto;
+	font-size: 1rem;
+	padding: 1rem;
+	
+}
+
+.picture-centered-text a {
+	display: flex;
+	flex-direction: column;
+	
+	justify-content: space-around;
+	margin: auto;
+}
+
+.picture-centered-text a img {
+
+  margin: auto;
+	max-width: 600px;
+	
+}
+.centered-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.centered-text p {
+	max-width: 600px;
+	margin: auto;
+}
+
+.centered-text h1 {
+	margin: auto;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+.centered-text h2 {
+	margin: auto;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+} 
+
+.centered-text ul {
+	margin: auto;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+p {
+font-family: "Work Sans", sans-serif;
+padding: 0.2rem;
+
+}
+
+main {
+/*	margin: auto;*/
 	font-size: 1.5rem;
-	background-color: #9fb6c3;
 	font-family: "Work Sans", sans-serif;
   	font-optical-sizing: auto;
   	font-weight: 400px;
   	font-style: normal;
   	justify-content: center;
   	align-content: center;
+}
 
 footer {
 	font-family: 'Playfair Display', serif;
@@ -74,7 +145,7 @@ h1 {
   font-weight: 800px;
   font-style: normal;
   font-size: 3rem;
-	margin: 1rem;
+	margin: 5rem;
 	margin-left: 2rem;
 	color: #cc6c5c;
 	align-content: center;
@@ -160,7 +231,5 @@ a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
-
-}
 
 
