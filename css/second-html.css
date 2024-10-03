@@ -284,9 +284,17 @@ a:active { text-decoration: none; }
 body {
 	background-color: red;
 }
+
 main {
-		width: 100%
+  width: 100%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
 }
+
 .list-item {
 	display: flex;
 	flex-direction: column;
@@ -312,6 +320,16 @@ body {
 	background-color: blue;
 }
 
+main {
+  width: 100%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
+}
+
 }
 
 @media screen and (min-width: 720px) {
@@ -332,8 +350,15 @@ body {
 }
 
 main {
-		width: 100%
+  width: 100%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
 }
+
 .list-item {
 	display: flex;
 	flex-direction: column;
