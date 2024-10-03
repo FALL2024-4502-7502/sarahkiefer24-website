@@ -220,58 +220,6 @@ nav ul {
 	
 }
 
-nav ul li a: Video Samples{
-
-	/*background-color: #f9e9de;
-	flex-flow: row wrap;
-	align-items: stretch;
-	list-style-type: none;
-	padding: 0.3rem;
-	margin: 0.1rem;
-	max-width: 100%;
-	border-radius: 0.5rem;
-	border: 1px solid	rgba(127,255,0,0.5);
-	border: 5px solid	rgba(127,255,0,0.5);*/
-	text-decoration: none;
-	color: #cc6c5c;
-	align-content: center;
-
-}
-
-nav ul li a: Writing Samples{
-	font-family: "Roboto Mono", monospace;
-  	font-optical-sizing: auto;
-  	font-weight: 700rem;
-  	font-style: normal;
-	/*font-optical-sizing: auto;
-	font-weight: 700;
-	font-style: normal;*/
-
-	text-decoration: none;
-	color: #cc6c5c;
-	align-content: center;
-
-}
-
-nav ul li a: Photography Portfolio {
-	text-decoration: none;
-	color: #cc6c5c;
-	align-content: center;
-
-}
-
-nav ul li a: Graphic Design Samples {
-	text-decoration: none;
-	color: #cc6c5c;
-	align-content: center;
-
-}
-
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: none; }
-a:active { text-decoration: none; }
-
 @media screen and (max-width: 500px) {
 
 body {
