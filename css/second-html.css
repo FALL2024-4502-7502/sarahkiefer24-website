@@ -1,6 +1,46 @@
 
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+}
+
+.skip-link:focus{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
+.anchor-nav {
+	display: flex;
+	position: sticky;
+	top: 10px;
+	justify-content: space-evenly;
+	width: 80%;
+	background-color: teal;
+	margin: auto;
+	padding: 0.5rem;
+	color: #FFE3AA;
+	text-transform: uppercase;
+	border-radius: 1rem;
+
+}
+
+.anchor-nav a {
+	color: #ffe3aa;
+}
+
+
 body {
 	background-color: #9fb6c3;
+	overflow: scroll;
 	}
 
 .flexible {
@@ -232,4 +272,56 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
 
+@media screen and (max-width: 500px) {
 
+body {
+	background-color: red;
+}
+main {
+		width: 100%
+}
+.list-item {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.list img {
+	max-width: 90%;
+	margin: auto;
+}
+
+img {
+	display: flex;
+
+}
+
+}
+
+
+@media screen and (min-width: 501px) {
+body {
+	background-color: blue;
+}
+
+}
+
+@media screen and (min-width: 720px) {
+
+.example-image {
+	
+	flex-direction: row !important;
+	margin: 3rem;
+
+}
+.example-image img {
+	background-color: crimson;
+	padding: 3rem;
+}
+	body {
+	background-color: goldenrod;
+
+}
+
+
+}
