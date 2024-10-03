@@ -41,16 +41,16 @@
 body {
 	background-color: #9fb6c3;
 	overflow: scroll;
-	}
+}
 
-.flexible {
+./*flexible {
 	display: flex;
 	flex-direction: column;
 }
 .flex1 {
 	display: flex;
 	flex-flow: column wrap;
-}
+}*/
 
 img{
   padding: 2rem;
@@ -169,9 +169,9 @@ main {
 
 footer {
 	font-family: 'Playfair Display', serif;
-	font-weight: 100;
+	font-weight: 200;
 	color: seagreen;
-	background-color: #f9b49b;
+	background-color: white;
 	max-width: auto;
 	margin: auto;
 	align-content: center;
