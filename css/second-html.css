@@ -290,7 +290,7 @@ main {
 .list-item {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
+	justify-content: center;
 }
 
 .list-image {
@@ -331,5 +331,24 @@ body {
 
 }
 
+main {
+		width: 100%
+}
+.list-item {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.list-image {
+	margin: auto;
+	image-size: 200px;
+
+}
+
+img {
+	display: flex;
+
+}
 
 }
