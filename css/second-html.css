@@ -93,6 +93,15 @@ nav a {
 
 }
 
+nav ul {
+	display: flex;
+	align-items: stretch;
+	flex-direction: row;
+	justify-content: right;
+
+	
+}
+
 .picture-centered-text {
 	display: flex;
 	flex-direction: column;
@@ -284,9 +293,10 @@ main {
 	justify-content: space-between;
 }
 
-.list img {
-	max-width: 90%;
+.list-image {
 	margin: auto;
+	image-size: 200px;
+
 }
 
 img {
