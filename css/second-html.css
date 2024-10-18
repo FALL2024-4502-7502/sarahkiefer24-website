@@ -30,6 +30,7 @@
 	color: #FFE3AA;
 	text-transform: uppercase;
 	border-radius: 1rem;
+	align-content: center;
 
 }
 
@@ -73,8 +74,8 @@ a: MU Journalism Site {
 
 nav {
 	font-family: "Merriweather", serif;
-  	font-weight: 300;
-  	font-style: normal;
+  font-weight: 300;
+  font-style: normal;
 	background-color: #f9e9de;
 	max-width: 3000px;
 	margin: auto;
@@ -90,15 +91,13 @@ nav a {
 	padding: 1rem;
 	text-decoration: none;
 
-
-
 }
 
 nav ul {
 	display: flex;
-	align-items: stretch;
+	align-items: center;
 	flex-direction: row;
-	justify-content: right;
+	justify-content: center;
 
 	
 }
@@ -132,6 +131,7 @@ nav ul {
 	max-width: 600px;
 	
 }
+
 .centered-text {
 	display: flex;
 	flex-direction: column;
