@@ -1,3 +1,42 @@
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+}
+
+.skip-link:focus{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
+.anchor-nav {
+	display: flex;
+	position: sticky;
+	top: 10px;
+	justify-content: space-evenly;
+	width: 80%;
+	background-color: teal;
+	margin: auto;
+	padding: 0.5rem;
+	color: #FFE3AA;
+	text-transform: uppercase;
+	border-radius: 1rem;
+	align-content: center;
+
+}
+
+.anchor-nav a {
+	color: #ffe3aa;
+}
+
 
 body {
 	background-color: #9fb6c3;
@@ -21,10 +60,10 @@ a {
 	color: navy;
 }
 
-a: Home {
+/*a: Home {
 	color: grey;
 	text-decoration: none;
-}
+}*/
 
 nav {
 	font-family: "Merriweather", serif;

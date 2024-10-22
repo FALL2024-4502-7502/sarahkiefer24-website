@@ -44,14 +44,15 @@ body {
 	overflow: scroll;
 }
 
-./*flexible {
+.flexible {
 	display: flex;
 	flex-direction: column;
 }
 .flex1 {
 	display: flex;
 	flex-flow: column wrap;
-}*/
+}
+
 
 img{
   padding: 2rem;
@@ -62,7 +63,7 @@ a {
 	color: navy;
 }
 
-a: Home {
+/*a: Home {
 	color: grey;
 	text-decoration: none;
 }
@@ -70,14 +71,14 @@ a: Home {
 a: MU Journalism Site {
 	color: grey;
 	text-decoration: none;
-}
+}*/
 
 nav {
 	font-family: "Merriweather", serif;
   font-weight: 300;
   font-style: normal;
 	background-color: #f9e9de;
-	max-width: 3000px;
+/*	max-width: 3000px;*/
 	margin: auto;
 	font-size: 1rem;
 	border-radius: 0.1rem;
