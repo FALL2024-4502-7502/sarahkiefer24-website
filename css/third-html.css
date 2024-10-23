@@ -54,7 +54,7 @@ body {
 
 img{
   padding: 2rem;
-  width: 600px;
+  width: 3rem;
 }
 
 a {
@@ -128,7 +128,7 @@ nav ul {
 .picture-centered-text a img {
 
   margin: auto;
-	max-width: 600px;
+	max-width: 300px;
 	
 }
 .centered-text {
@@ -342,7 +342,7 @@ main {
 }
 .example-image img {
 	background-color: crimson;
-	padding: 3rem;
+	padding: 300px;
 }
 	body {
 	background-color: goldenrod;
