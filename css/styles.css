@@ -150,6 +150,29 @@ padding: 0.2rem;
 
 }
 
+.gallery {
+
+}
+
+button_next {
+
+}
+
+button_previous{
+
+}
+
+stepper {
+
+}
+.hideThis {
+		display: none;
+}
+
+.gallery-image{
+
+}
+
 main {
 /*	margin: auto;*/
 		font-size: 1.5rem;
