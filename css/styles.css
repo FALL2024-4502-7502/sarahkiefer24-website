@@ -165,12 +165,37 @@ button_previous{
 stepper {
 
 }
+
+.button-start {
+
+}
+
+.gallery-image {
+	width: 80%;
+}
+
+.gallery-image img {
+	width: 100%;
+}
+
 .hideThis {
 		display: none;
 }
 
-.gallery-image{
+.example-image {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem;
 
+}
+
+.example-image img {
+	display: flex;
+  	max-width:230px;
+  	max-height:95px;
+ 	width: auto;
+  	height: auto;
+  	margin: 1rem;
 }
 
 main {
