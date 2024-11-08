@@ -401,7 +401,7 @@ main {
   max-width: 1000px;
   background: #FFF;
   border-radius: 1rem;
-  padding: 1rem 2rem;
+/*  padding: 1rem 2rem;*/
   box-sizing: border-box;
   margin: 1rem auto;
 }
@@ -437,18 +437,17 @@ img {
 
 
 .gallery-descrip {
-	margin-left: 0.8rem;
-	margin-right: 0.8rem;
+	
 }
 
 .gallery-descrip h1 {
-	color:#fff;
+	color:#cc6c5c;
 	font-size: 3rem;
 
 }
 
 .gallery-descrip p {
-	color: #fff;
+	padding: 2rem;
 
 }
 
@@ -561,9 +560,9 @@ main {
   max-width: 1000px;
   background: #FFF;
   border-radius: 1rem;
-  padding: 1rem;
+/*  padding: 1rem;*/
   box-sizing: border-box;
-  margin: 1rem auto;
+/*  margin: 1rem auto;*/
 }
 .list-item {
 	display: flex;
@@ -576,6 +575,11 @@ main {
 	image-size: 200px;
 
 }
+
+p {
+	padding-left: 0.5rem;
+}
+
 img {
 	display: flex;
 
