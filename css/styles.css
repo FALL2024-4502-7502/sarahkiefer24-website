@@ -52,7 +52,7 @@ body {
 }
 
 img{
-  padding: 2rem;
+  padding: 1rem;
   width: 600px;
 }
 
@@ -144,6 +144,7 @@ nav a {
 	margin-bottom: 1rem;
 }
 
+
 p {
 font-family: "Work Sans", sans-serif;
 padding: 0.2rem;
@@ -203,6 +204,10 @@ stepper {
 	justify-content: space-between;
 	align-items: center;
 }
+
+/*.organgesticky*/
+
+
 
 .button_holder {
 	display: flex;
@@ -388,10 +393,8 @@ a:active { text-decoration: none; }
 @media screen and (max-width: 500px) {
 
 body {
-	background-color: blue;
-	flex: center;
+	background-color: #9fb6c3;
 }
-
 
 main {
   width: 100%;
@@ -402,7 +405,6 @@ main {
   box-sizing: border-box;
   margin: 1rem auto;
 }
-
 .list-item {
 	display: flex;
 	flex-direction: column;
@@ -411,12 +413,140 @@ main {
 
 .list-image {
 	margin: auto;
-	image-size: 200px;
+	image-size: 10px;
 
 }
 img {
 	display: flex;
 
+}
+
+.gallery-section { 
+	background-color: white;
+/*	padding-top: 0.2rem;*/
+/*	border-radius: 0.5rem;*/
+ }
+
+.gallery-example {
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+
+
+.gallery-descrip {
+	margin-left: 0.8rem;
+	margin-right: 0.8rem;
+}
+
+.gallery-descrip h1 {
+	color:#fff;
+	font-size: 3rem;
+
+}
+
+.gallery-descrip p {
+	color: #fff;
+
+}
+
+figcaption {
+	color: black;
+}
+
+
+/*.orange-sticky {
+	position: sticky;
+	top: 5rem;
+	width: 300px;
+	background-color: darkorange;
+	padding: 1rem;
+
+}*/
+
+
+
+
+.button_holder {
+	
+	display: flex;
+	flex-direction: row;
+	color: #fff;
+}
+
+button_next {  }
+button_previous {  }
+
+stepper { 
+	
+ }
+
+
+
+button {
+	background-color: #cc6c5c;
+/*	margin: 1rem;*/
+/*	padding: 1rem;*/
+	min-width: 10rem;
+	font-size: 1.2rem;
+	border-radius: 0.5rem;
+}
+
+.button-start {
+/*	background-color: forestgreen;*/
+}
+
+.gallery-image {
+	max-width: 80%;
+	
+
+}
+
+.gallery-image img {
+	width: 100%;
+/*	max-height: 500px;*/
+}
+
+.hideThis {
+	display: none;
+}
+
+example-image {
+	display: flex;
+	flex-direction: column;
+	margin: 3rem;
+
+}
+
+.example-image img {
+	display: flex;
+  	max-width:230px;
+  	max-height:95px;
+ 	width: auto;
+  	height: auto;
+  	margin: 1rem;
+}
+
+
+
+.flex-example {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+
+
+}
+
+.flex-example-space {
+	margin:1rem;
+}
+
+
+.flex-example2 {
+	
 }
 }
 
@@ -431,7 +561,7 @@ main {
   max-width: 1000px;
   background: #FFF;
   border-radius: 1rem;
-  padding: 1rem 2rem;
+  padding: 1rem;
   box-sizing: border-box;
   margin: 1rem auto;
 }
@@ -475,7 +605,7 @@ main {
 
 .list-image {
 	margin: auto;
-	image-size: 200px;
+	image-size: 10px;
 
 }
 img {
