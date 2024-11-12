@@ -288,11 +288,14 @@ footer {
 	font-family: 'Playfair Display', serif;
 	font-weight: 100;
 	color: seagreen;
-	background-color: #f9b49b;
+	background-color: white;
 	max-width: auto;
 	margin: auto;
 	align-content: center;
 
+}
+footer p {
+	margin: auto;
 }
 
 h1 {
