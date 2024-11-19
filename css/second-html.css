@@ -1,24 +1,14 @@
-
 .skip-link {
   position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  border: 0;
+  top: -3em;
+  background:#fff;
 }
 
-.skip-link:focus{
-  width: unset;
-  height: unset;
-  position: relative;
-  padding: unset;
-  margin: unset;
-  font-size: 2rem;
+.skip-link:focus {
+  top: 0;
 }
 
-.anchor-nav {
+/*.anchor-nav {
 	display: flex;
 	position: sticky;
 	top: 10px;
@@ -32,12 +22,16 @@
 	border-radius: 1rem;
 	align-content: center;
 
-}
+}*/
 
-.anchor-nav a {
-	color: #ffe3aa;
+.border-example {
+	margin:auto;
+	max-width: 100;
+	padding: ;
+	border-radius: ;
+		border: 1px solid;
+		border: none;
 }
-
 
 body {
 	background-color: #9fb6c3;
