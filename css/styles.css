@@ -112,8 +112,8 @@ nav a {
 .picture-centered-text a img {
 
   margin: auto;
-	max-width: 600px;
-	
+	max-width: 90%;
+
 }
 .centered-text {
 	display: flex;
@@ -285,10 +285,10 @@ main {
 
 footer {
 	font-family: 'Playfair Display', serif;
-	font-weight: 100;
-	color: seagreen;
-	background-color: white;
-	max-width: auto;
+	font-weight: 300;
+	color: white;
+/*	background-color: ;*/
+	max-width: 100%;
 	margin: auto;
 	align-content: center;
 
@@ -339,7 +339,7 @@ nav ul {
 	
 }
 
-nav ul li a: Video Samples{
+nav ul li a:  Samples{
 
 	/*background-color: #f9e9de;
 	flex-flow: row wrap;
@@ -400,10 +400,10 @@ body {
 
 main {
   width: 100%;
-  max-width: 1000px;
+  max-width: 100%;
   background: #FFF;
   border-radius: 1rem;
-/*  padding: 1rem 2rem;*/
+  padding: 1rem;
   box-sizing: border-box;
   margin: 1rem auto;
 }
@@ -419,8 +419,8 @@ main {
 
 }
 img {
-	display: flex;
-
+/*	display: flex;*/
+  max-width: 100%;
 }
 
 .gallery-section { 
@@ -525,7 +525,7 @@ example-image {
 	display: flex;
   	max-width:230px;
   	max-height:95px;
- 	width: auto;
+ 		width: auto;
   	height: auto;
   	margin: 1rem;
 }
