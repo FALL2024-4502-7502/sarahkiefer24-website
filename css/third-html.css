@@ -173,14 +173,14 @@ main {
 
 footer {
 	font-family: 'Playfair Display', serif;
-	font-weight: 100;
-	color: seagreen;
-	background-color: white;
-	max-width: auto;
-/*	margin: auto;*/
+	font-weight: 300;
+	color: white;
+/*	background-color: ;*/
+	max-width: 100%;
+	margin: auto;
 	align-content: center;
-
 }
+
 footer p {
 	margin: auto;
 }

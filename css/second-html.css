@@ -161,9 +161,9 @@ padding: 0.2rem;
 
 }
 
-footer p {
+/*footer p {
 	margin: auto;
-}
+}*/
 
 main {
 /*	margin: auto;*/
@@ -179,16 +179,16 @@ main {
 footer {
 	font-family: 'Playfair Display', serif;
 	font-weight: 300;
-	color: white;
+	color: navy;
 /*	background-color: ;*/
 	max-width: 100%;
 	margin: auto;
 	align-content: center;
-
 }
-/*footer p {
+
+footer p {
 	margin: auto;
-}*/
+}
 
 h1 {
 	/*font-family: "Roboto Slab", serif;
