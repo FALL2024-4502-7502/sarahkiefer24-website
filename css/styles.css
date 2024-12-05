@@ -144,7 +144,7 @@ nav a {
 
 p {
 font-family: "Work Sans", sans-serif;
-padding: 0.2rem;
+padding: 2rem;
 
 }
 /*
@@ -593,13 +593,13 @@ main {
 
 p {
 	font-family: "Work Sans", sans-serif;
-	padding: 0.2rem;
+	padding: 1rem;
 }
 
 .gallery-descrip h1 {
 	color:#cc6c5c;
 	font-size: 3rem;
-	padding: 4.5rem;
+/*	padding: 4.5rem;*/
 	margin: 1rem auto;
 }
 
@@ -647,11 +647,23 @@ main {
 	image-size: 50%;
 }
 
+.gallery-descrip p {
+	padding: 2rem;
+	margin-left: 2rem;
+}
+
 .gallery-descrip h1 {
 	color:#cc6c5c;
 	font-size: 3rem;
-	padding: 4.5rem;
-	margin-top: 1rem auto;
+	padding: 2rem;
+	margin-top: 0.5rem auto;
+	margin-left: 5rem;
+}
+
+p {
+font-family: "Work Sans", sans-serif;
+/*padding: 2rem;*/
+
 }
 
 img {
