@@ -52,7 +52,7 @@ body {
 
 img{
   padding: 1rem;
-/*  width: 600px;*/
+  width: 400px;
 }
 
 a {
@@ -66,8 +66,8 @@ a {
 
 nav {
 	font-family: "Merriweather", serif;
-  	font-weight: 300;
-  	font-style: normal;
+  font-weight: 300;
+  font-style: normal;
 	background-color: #f9e9de;
 	max-width: 3000px;
 	margin: auto;
@@ -81,8 +81,6 @@ nav {
 nav a {
 	padding: 1rem;
 	text-decoration: none;
-
-
 
 }
 
@@ -568,7 +566,7 @@ footer p {
 @media screen and (min-width: 501px) {
 
 body {
-	background-color: red;
+	background-color: #9fb6c3;
 }
 
 main {
