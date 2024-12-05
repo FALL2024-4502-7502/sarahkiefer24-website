@@ -52,7 +52,7 @@ body {
 
 img{
   padding: 1rem;
-  width: 600px;
+/*  width: 600px;*/
 }
 
 a {
@@ -626,7 +626,7 @@ main {
   max-width: 1000px;
   background: #FFF;
   border-radius: 1rem;
-  padding: 1rem 5.5rem;
+  padding: 1rem 6rem;
   box-sizing: border-box;
   margin: 1rem auto;
 }
@@ -634,7 +634,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	image-size: 50%;
+	image-size: 90px;
 }
 
 .list-image {
