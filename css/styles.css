@@ -125,7 +125,7 @@ nav a {
 
 .centered-text h1 {
 	margin: auto;
-	margin-top: 2rem;
+/*	margin-top: 2rem;*/
 	margin-bottom: 1rem;
 }
 
@@ -443,7 +443,7 @@ img {
 .gallery-descrip h1 {
 	color:#cc6c5c;
 	font-size: 3rem;
-
+	margin: 1rem auto;
 }
 
 .gallery-descrip p {
@@ -576,7 +576,7 @@ main {
   border-radius: 1rem;
   padding: 1rem 2rem;
   box-sizing: border-box;
-/*  margin: 1rem auto;*/
+  margin: 1rem auto;
 }
 
 .list-item {
@@ -594,6 +594,13 @@ main {
 p {
 	font-family: "Work Sans", sans-serif;
 	padding: 0.2rem;
+}
+
+.gallery-descrip h1 {
+	color:#cc6c5c;
+	font-size: 3rem;
+	padding: 4.5rem;
+	margin: 1rem auto;
 }
 
 img {
@@ -638,6 +645,13 @@ main {
 .list-image {
 	margin: auto;
 	image-size: 50%;
+}
+
+.gallery-descrip h1 {
+	color:#cc6c5c;
+	font-size: 3rem;
+	padding: 4.5rem;
+	margin-top: 1rem auto;
 }
 
 img {
